@@ -1,2 +1,3 @@
-# TCC
-Asignatura Teoría de Códigos y Criptografía
+# Teoría de Códigos y Criptografía
+
+Ejercicios prácticos usando la herramienta GAP.
